@@ -27,7 +27,7 @@
 
     - **Title:** This is the text that will appear in the link button (the clickable text in the navbar).
     - **Url:** The [URL](https://www.verisign.com/en_US/website-presence/online/what-is-a-url/index.xhtml), eg. where the link takes you.
-    - **Is it a Flarum link?** Whenever the link URL is a Flarum link (eg. something at your forum), or if it's an external site (outside of your forum).
+    - **Is it a Flarum link?** Whenever the link [URL](http://www.tutorialsmate.com/2020/10/url-full-form.html) is a Flarum link (eg. something at your forum), or if it's an external site (outside of your forum).
     - **Open link in new tab** If this is checked, then the link will be opened in a new browser tab instead of the same one.
     
 !!! question "Are paths supported, such as just /all instead of full forum URLs?"
