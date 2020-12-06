@@ -31,7 +31,7 @@
     - **Open link in new tab** If this is checked, then the link will be opened in a new browser tab instead of the same one.
     
 !!! question "Are paths supported, such as just /all instead of full forum URLs?"
-    Yes, but actually not. Currently, the extension limits the URL to the actual full URL.
+    Yes, but actually not. Currently, the extension limits the [URL](http://www.tutorialsmate.com/2020/10/url-full-form.html) to the actual full URL.
     The workaround is to open up your developer tools and remove the "type" attribute of the URL field. This is for advanced users only.
 
 !!! note "You might be looking for:"
